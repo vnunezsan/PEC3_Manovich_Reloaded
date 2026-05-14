@@ -12,7 +12,7 @@ Fecha: Mayo 2026
 ## Planteamiento
 
 
-<p>En la obra de Lev Manovich, que estamos analizando este semestre <i>El sofware toma el mando</i> (2013), nos adentramos en esta PEC en la hibridación. Hemos visto como en la multimedia se han re-mediado los medios tradicionales mediante una simulación digital, pero superada esa fase, nos adentramos en la evolución de los medios. Una evolución en la que "Se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno” **(Manovich, 2013)**, la hibridación. Y como bien nos indica Manovich, esta hibridación no se trata de tomar varios medios por separado, sino que es la fusión de distintos medios para formular algo distinto que funciona como un conjunto.</p>
+<p>En la obra de Lev Manovich, que estamos analizando este semestre <i>El sofware toma el mando</i> (2013), nos adentramos en esta PEC en la hibridación. Hemos visto como en la multimedia se han re-mediado los medios tradicionales mediante una simulación digital, pero superada esa fase, nos adentramos en la evolución de los medios. Una evolución en la que "Se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno” <b>(Manovich, 2013)</b>, la hibridación. Y como bien nos indica Manovich, esta hibridación no se trata de tomar varios medios por separado, sino que es la fusión de distintos medios para formular algo distinto que funciona como un conjunto.</p>
 <p>En este ensayo vamos a analizar dos casos, el primero es una app(Scaniverse) y el segundo, una herramienta dentro de una aplicación (Vectorizar mapa de bits)</p> 
 
 
