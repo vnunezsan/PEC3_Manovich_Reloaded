@@ -18,13 +18,13 @@ Fecha: Mayo 2026
 
 ## Re-descubriendo la hibridacion: Caso 1 - Scaniverse
 
-<p>Desarrollado por <a href="https://www.nianticspatial.com/">Niantic</a> Scaniverse es una herramienta desarrollada para Android e iOS, que mediante el uso del sensor <abbr title="Light Detection and Ranging">LiDAR</abbr>, si está disponible en el dispositivo, o con fotogrametría, es capaz de generar un objeto en 3D y aplicar imágenes en la textura del mismo</p>
+<p>Desarrollado por <a href="https://www.nianticspatial.com/">Niantic</a>, Scaniverse es una herramienta desarrollada para Android e iOS, que mediante el uso del sensor <abbr title="Light Detection and Ranging">LiDAR</abbr>, si está disponible en el dispositivo, o con fotogrametría, es capaz de generar un objeto en 3D y aplicar imágenes en la textura del mismo</p>
 
 <figure>
   <img
     src="images/Blender.png"
     alt="Captura de pantalla de la aplicación Blender en la que se ve un modelo en 3D sin textura en la mitad izquierda y el mismo modelo con textura en la mitad derecha" />
-  <figcaption>Malla generada por Scaniverse sin textura en la mitad izquierda y con textura en la mitad derecha</figcaption>
+  <figcaption><i>Fig1. Malla generada por Scaniverse sin textura en la mitad izquierda y con textura en la mitad derecha</i></figcaption>
 </figure>
 
 <p>Creo que este es un caso de hibridación en el que se ve de forma muy clara, no tenemos un escaner láser de un objeto o imágenes del mismo, en archivos jpg independientes unos de otros, nos encontramos con una herramienta que nos toma como parte dentro del proceso. Como usuarios, elegimos que elemento queremos trasladar al entorno digital.
@@ -36,7 +36,7 @@ Nos ponemos a ello y en tiempo real, a través de la pantalla del dispositivo ve
   <img
     src="images/Fuente-low.gif"
     alt="Rotación de objeto caturado en la aplicación" />
-  <figcaption>Manipulación de la cámara sobre el objeto, con renderizado en tiempo real</figcaption>
+  <figcaption><i>Fig2. Manipulación de la cámara sobre el objeto, con renderizado en tiempo real</i></figcaption>
 </figure>
 
 <p>Pero esta aplicación no se queda aquí. Ya que no se trata solo de una app que se use solo para escanear, le puedes dar un uso más lúdico, y es el de visitar distintas partes del mundo, donde verás los modelos que ha compartido la comunidad. Al tratarse de otro módulo dentro de la misma aplicación que es independiente a que hayas realizado escaneos o no, podríamos analizar este módulo de forma independiente, entendiendo que "la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios” **(Manovich, 2013)**, ya que por un lado, contamos con objetos en 3D y por otro, un globo terraqueo por el que podemos navegar, que mediante esta hibridación la aplicación nos permirte viajar por recreaciones digitales por todo el mundo, que se puede convertir en totalmente inmersivo si se usa un casco VR.</p>
@@ -47,7 +47,7 @@ Nos ponemos a ello y en tiempo real, a través de la pantalla del dispositivo ve
   <img
     src="images/Vectorizado.png"
     alt="En la mitad izquierda se ven dos logotipos, el superior es una imagen y el inferior, un objeto vectorizado. La mitad derecha es una ampliacion, que en la parte superior, se ve pixelizada y en la inferior se conservan las formas gracias al vector" />
-  <figcaption>Diferencia entre mapa de bits y vector</figcaption>
+  <figcaption><i>Fig3. Diferencia entre mapa de bits y vector</i></figcaption>
 </figure>
 
 <p>“No todos los híbridos tienen por qué ser elegantes, convincentes o futuristas” **(Manovich, 2013)**.
