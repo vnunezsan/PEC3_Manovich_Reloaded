@@ -21,7 +21,7 @@ Fecha: Mayo 2026
 
 ## Re-descubriendo la hibridacion: Caso 1 - Scaniverse
 
-Desarrollado por <a href="https://www.nianticspatial.com/">Niantic</a>
+Desarrollado por <a href="https://www.nianticspatial.com/" target="_blank">Niantic</a>
 
 
 
