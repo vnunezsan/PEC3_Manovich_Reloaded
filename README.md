@@ -8,7 +8,7 @@ Autor: Víctor Núñez Sánchez
 
 Fecha: Mayo 2026
 
-![Cultura Digital](images/Blender.png) 
+ 
 
 
 
@@ -21,7 +21,14 @@ Fecha: Mayo 2026
 
 ## Re-descubriendo la hibridacion: Caso 1 - Scaniverse
 
-Desarrollado por <a href="https://www.nianticspatial.com/" target="_blank" rel="noopener">Niantic</a>
+<p>Desarrollado por <a href="https://www.nianticspatial.com/">Niantic</a> Scaniverse es una herramienta desarrollada para Android e iOS, que mediante el uso del sensor <abbr title="Light Detection and Ranging">LiDAR</abbr>, si está disponible en el dispositivo, o con fotogrametría, es capaz de generar un objeto en 3D y aplicar imágenes en la textura del mismo</p>
+
+<figure>
+  <img
+    src="images/Blender.png"
+    alt="Captura de pantalla de la aplicación Blender en la que se ve un modelo en 3D sin textura en la mitad izquierda y el mismo modelo con textura en la mitad derecha" />
+  <figcaption>Malla generada por Scaniverse sin textura en la mitad izquierda y con textura en la mitad derecha</figcaption>
+</figure>
 
 
 
