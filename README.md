@@ -37,7 +37,7 @@ Nos ponemos a ello y en tiempo real, a través de la pantalla del dispositivo ve
 
 <figure>
   <img
-    src="images/Fuente_low.gif"
+    src="images/Fuente-low.gif"
     alt="Rotación de objeto caturado en la aplicación" />
   <figcaption>Manipulación de la cámara sobre el objeto, con renderizado en tiempo real</figcaption>
 </figure>
