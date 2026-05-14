@@ -8,9 +8,6 @@ Autor: Víctor Núñez Sánchez
 
 Fecha: Mayo 2026
 
- 
-
-
 
 ## Planteamiento
 
@@ -42,10 +39,34 @@ Nos ponemos a ello y en tiempo real, a través de la pantalla del dispositivo ve
   <figcaption>Manipulación de la cámara sobre el objeto, con renderizado en tiempo real</figcaption>
 </figure>
 
+<p>Pero esta aplicación no se queda aquí. Ya que no se trata solo de una app que se use solo para escanear, le puedes dar un uso más lúdico, y es el de visitar distintas partes del mundo, donde verás los modelos que ha compartido la comunidad. Al tratarse de otro módulo dentro de la misma aplicación que es independiente a que hayas realizado escaneos o no, podríamos analizar este módulo de forma independiente, entendiendo que "la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios” **(Manovich, 2013)**, ya que por un lado, contamos con objetos en 3D y por otro, un globo terraqueo por el que podemos navegar, que mediante esta hibridación la aplicación nos permirte viajar por recreaciones digitales por todo el mundo, que se puede convertir en totalmente inmersivo si se usa un casco VR.</p>
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: Caso 2 - Vectorización de mapa de bits
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<figure>
+  <img
+    src="images/Vectorizado.png"
+    alt="En la mitad izquierda se ven dos logotipos, el superior es una imagen y el inferior, un objeto vectorizado. La mitad derecha es una ampliacion, que en la parte superior, se ve pixelizada y en la inferior se conservan las formas gracias al vector" />
+  <figcaption>Diferencia entre mapa de bits y vector</figcaption>
+</figure>
+
+<p>“No todos los híbridos tienen por qué ser elegantes, convincentes o futuristas” **(Manovich, 2013)**.
+Comienzo con esta frase de Manovich, ya que creo que he elegido para este caso algo muy poco llamativo.</p>
+
+<p>Pero la elección de esta herramienta específica, es que detrás de su sencillez, personalmente me ha ahorrado infinidad de horas. En un momento de mi vida, posiblemente por la crisis de los 30 y/o el deseo de crecimiento profesional que no se me permitía, al trabajar en una multinacional y pertenecer a la clase operaria, me hicieron pensar que sería una gran idea convertirme en autónomo (en pluriactividad) y dedicarme a fabricar <i>cake toppers</i>.</p>
+
+<p>Esa fase, que duró un par de años, ya pasó. Ahora me encuentro en otra, que supongo que podéis deducir al leer estas líneas.</p>
+
+<p>Centrándonos en el caso que nos trae aquí, hablemos de cómo esta funcionalidad, dentro de los programas de diseño vectorial, es un caso claro de hibridación.</p>
+
+<p>Partimos de dos elementos. El mapa de bits, que se trata de la re-mediación de la fotografía y el objeto vectorial, que nació de la era digital y del **"metamedio"** ordenador, ya que aunque se pudieran considerar ciertos dibujos técnicos como diseño vectorial, todas las propiedades que convierten al vector en lo que es, provienen de la creación de este medio en el entorno digital.</p>
+
+<p>Voy a explicar el funcionamiento de la herramienta. Tras insertar un mapa de bits, seleccionamos ciertos parámetros de configuración </p>
+
+<p>Llegados a este punto se podría plantear la siguiente duda. Si el objeto resultante es un vector, estructuralmente idéntico a cualquier otro que se crea desde cero ¿Realmente estamos hablando de hibridación?</p>
+
+<p>Habiendo analizado a los dos protagonistas de este caso, entendemos que la herramienta se trata de un caso de hibridación, ya que tomamos el ADN de estos dos elementos y creamos algo nuevo, que en la parte visual conseva la esencia de un mapa de bits, pero que en su interior, tiene una estructura vectorial.</p>
+
 
 
 ### Referencias y Bibliografía
@@ -55,4 +76,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
