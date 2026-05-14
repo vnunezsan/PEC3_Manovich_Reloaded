@@ -61,11 +61,20 @@ Comienzo con esta frase de Manovich, ya que creo que he elegido para este caso a
 
 <p>Partimos de dos elementos. El mapa de bits, que se trata de la re-mediación de la fotografía y el objeto vectorial, que nació de la era digital y del **"metamedio"** ordenador, ya que aunque se pudieran considerar ciertos dibujos técnicos como diseño vectorial, todas las propiedades que convierten al vector en lo que es, provienen de la creación de este medio en el entorno digital.</p>
 
-<p>Voy a explicar el funcionamiento de la herramienta. Tras insertar un mapa de bits, seleccionamos ciertos parámetros de configuración </p>
+<p>Voy a explicar el funcionamiento de la herramienta. Tras insertar un mapa de bits, seleccionamos ciertos parámetros de configuración, que podemos cambiar, mientras que se nos muestra la previsualización del resultado. Cuando ejecutamos la herramienta, obtenemos un vector que simula al mapa de bits.</p>
+
+<figure>
+  <img
+    src="images/panel_control.png"
+    alt="Captura del panel de control de la herramienta" />
+  <figcaption><i>Fig4. Panel de control de la herramienta en Inkscape.</i></figcaption>
+</figure>
 
 <p>Llegados a este punto se podría plantear la siguiente duda. Si el objeto resultante es un vector, estructuralmente idéntico a cualquier otro que se crea desde cero ¿Realmente estamos hablando de hibridación?</p>
 
-<p>Habiendo analizado a los dos protagonistas de este caso, entendemos que la herramienta se trata de un caso de hibridación, ya que tomamos el ADN de estos dos elementos y creamos algo nuevo, que en la parte visual conseva la esencia de un mapa de bits, pero que en su interior, tiene una estructura vectorial.</p>
+<p>La respuesta es que sí. La herramienta se trata de un caso de hibridación, ya que tomamos el ADN de estos dos elementos y creamos algo nuevo, que en la parte visual conseva la esencia de un mapa de bits, pero que en su interior, tiene una estructura vectorial.</p>
+
+## Conclusión
 
 
 
