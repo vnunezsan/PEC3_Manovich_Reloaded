@@ -12,11 +12,11 @@ Fecha: Mayo 2026
 ## Planteamiento
 
 
-<p>En la obra de Lev Manovich, que estamos analizando este semestre <i>El sofware toma el mando</i> (2013), nos adentramos en esta PEC en la hibridación. Hemos visto como en la multimedia se han re-mediado los medios tradicionales mediante una simulación digital, pero superada esa fase, nos adentramos en la evolución de los medios. Una evolución en la que "Se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno” <b>(Manovich, 2013)</b>, la hibridación. Y como bien nos indica Manovich, esta hibridación no se trata de tomar varios medios por separado, sino que es la fusión de distintos medios para formular algo distinto que funciona como un conjunto.</p>
+<p>En la obra de Lev Manovich, que estamos analizando este semestre <i>El software toma el mando</i> (2013), nos adentramos en esta PEC en la hibridación. Hemos visto como en la multimedia se han re-mediado los medios tradicionales mediante una simulación digital, pero superada esa fase, nos adentramos en la evolución de los medios. Una evolución en la que "Se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno” <b>(Manovich, 2013)</b>, la hibridación. Y como bien nos indica Manovich, esta hibridación no se trata de tomar varios medios por separado, sino que es la fusión de distintos medios para formular algo distinto que funciona como un conjunto.</p>
 <p>En este ensayo vamos a analizar dos casos, el primero es una app(Scaniverse) y el segundo, una herramienta dentro de una aplicación (Vectorizar mapa de bits)</p> 
 
 
-## Re-descubriendo la hibridacion: Caso 1 - Scaniverse
+## Re-descubriendo la hibridación: Caso 1 - Scaniverse
 
 <p>Desarrollado por <a href="https://www.nianticspatial.com/">Niantic</a>, Scaniverse es una herramienta desarrollada para Android e iOS, que mediante el uso del sensor <abbr title="Light Detection and Ranging">LiDAR</abbr>, si está disponible en el dispositivo, o con fotogrametría, es capaz de generar un objeto en 3D y aplicar imágenes en la textura del mismo</p>
 
@@ -29,8 +29,8 @@ Fecha: Mayo 2026
 </figure>
 </p>
 
-<p>Creo que este es un caso de hibridación en el que se ve de forma muy clara, no tenemos un escaner láser de un objeto o imágenes del mismo, en archivos jpg independientes unos de otros, nos encontramos con una herramienta que nos toma como parte dentro del proceso. Como usuarios, elegimos que elemento queremos trasladar al entorno digital.
-Nos ponemos a ello y en tiempo real, a través de la pantalla del dispositivo vemos como se va creando la malla sobre el elemento, siendo nosotros mismos los que decidimos si es necesario estar mas o menos tiempo para capturar mejores detalles, al crearse una malla de mayor densidad por el aumento de la cantidad de datos recogidos.</p>
+<p>Creo que este es un caso de hibridación en el que se ve de forma muy clara, no tenemos un escáner láser de un objeto o imágenes del mismo, en archivos jpg independientes unos de otros, nos encontramos con una herramienta que nos toma como parte dentro del proceso. Como usuarios, elegimos qué elemento queremos trasladar al entorno digital.
+Nos ponemos a ello y en tiempo real, a través de la pantalla del dispositivo vemos cómo se va creando la malla sobre el elemento, siendo nosotros mismos los que decidimos si es necesario estar más o menos tiempo para capturar mejores detalles, al crearse una malla de mayor densidad por el aumento de la cantidad de datos recogidos.</p>
 
 <p>Tras la captura, decidimos dentro de unos varias configuraciones por defecto, como se van a procesar los datos, si con mayor cantidad de detalles para objetos pequeños o si se trata de un entorno algo mayor, hace un procesado para grandes superficies. Tras unos instantes, podemos visualizar nuestro trabajo en la misma aplicación, pivotando sobre el objeto o acercándonos al mismo.</p>
 
@@ -38,20 +38,20 @@ Nos ponemos a ello y en tiempo real, a través de la pantalla del dispositivo ve
 <figure>
   <img
     src="images/Fuente-low.gif"
-    alt="Rotación de objeto caturado en la aplicación" />
+    alt="Rotación de objeto capturado en la aplicación" />
   <figcaption><i>Fig2. Manipulación de la cámara sobre el objeto, con renderizado en tiempo real</i></figcaption>
 </figure>
 </p>
 
-<p>Pero esta aplicación no se queda aquí. Ya que no se trata solo de una app que se use solo para escanear, le puedes dar un uso más lúdico, y es el de visitar distintas partes del mundo, donde verás los modelos que ha compartido la comunidad. Al tratarse de otro módulo dentro de la misma aplicación que es independiente a que hayas realizado escaneos o no, podríamos analizar este módulo de forma independiente, entendiendo que "la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios” <b>(Manovich, 2013)</b>, ya que por un lado, contamos con objetos en 3D y por otro, un globo terraqueo por el que podemos navegar, que mediante esta hibridación la aplicación nos permirte viajar por recreaciones digitales por todo el mundo, que se puede convertir en totalmente inmersivo si se usa un casco VR.</p>
+<p>Pero esta aplicación no se queda aquí. Ya que no se trata solo de una app que se use solo para escanear, le puedes dar un uso más lúdico, y es el de visitar distintas partes del mundo, donde verás los modelos que ha compartido la comunidad. Al tratarse de otro módulo dentro de la misma aplicación que es independiente a que hayas realizado escaneos o no, podríamos analizar este módulo de forma independiente, entendiendo que "la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios” <b>(Manovich, 2013)</b>, ya que por un lado, contamos con objetos en 3D y por otro, un globo terráqueo virtual por el que podemos navegar, que mediante esta hibridación la aplicación nos permite viajar por recreaciones digitales por todo el mundo, que se puede convertir en totalmente inmersivo si se usa un casco VR.</p>
 
-## Re-descubriendo la hibridacion: Caso 2 - Vectorización de mapa de bits
+## Re-descubriendo la hibridación: Caso 2 - Vectorización de mapa de bits
 
 <p>
 <figure>
   <img
     src="images/Vectorizado.png"
-    alt="En la mitad izquierda se ven dos logotipos, el superior es una imagen y el inferior, un objeto vectorizado. La mitad derecha es una ampliacion, que en la parte superior, se ve pixelizada y en la inferior se conservan las formas gracias al vector" />
+    alt="En la mitad izquierda se ven dos logotipos, el superior es una imagen y el inferior, un objeto vectorizado. La mitad derecha es una ampliación, que en la parte superior, se ve pixelada y en la inferior se conservan las formas gracias al vector" />
   <figcaption><i>Fig3. Diferencia entre mapa de bits y vector</i></figcaption>
 </figure>
 </p>
@@ -80,17 +80,19 @@ Comienzo con esta frase de Manovich, ya que creo que he elegido para este caso a
 
 <p>Llegados a este punto se podría plantear la siguiente duda. Si el objeto resultante es un vector, estructuralmente idéntico a cualquier otro que se crea desde cero ¿Realmente estamos hablando de hibridación?</p>
 
-<p>La respuesta es que sí. La herramienta se trata de un caso de hibridación, ya que tomamos el ADN de estos dos elementos y creamos algo nuevo, que en la parte visual conseva la esencia de un mapa de bits, pero que en su interior, tiene una estructura vectorial.</p>
+<p>La respuesta es que sí. La herramienta se trata de un caso de hibridación, ya que tomamos el ADN de estos dos elementos y creamos algo nuevo, que en la parte visual conserva la esencia de un mapa de bits, pero que en su interior, tiene una estructura vectorial.</p>
 
 ## Conclusión
 
 <p>A diferencia de la re-mediación, en la que se integraban en el universo digital, los medios tradicionales, nos encontramos en este momento, analizando el que naturalmente era su paso siguiente, la hibridación.
-Con estos casos analizado en el ensayo, podemos constatar que los humanos siempre tenemos ese ansia de evolución e inconformismo, que nos ha llevado a crear herramientas que fusionan comportamientos de otras mas sencillas, y que sin ayuda del <b>"metamedio"</b> ordenador, hubiera sido imposible de llevar a cabo.</p>
+Con estos casos analizado en el ensayo, podemos constatar que los humanos siempre tenemos ese ansia de evolución e inconformismo, que nos ha llevado a crear herramientas que fusionan comportamientos de otras más sencillas, y que sin ayuda del <b>"metamedio"</b> ordenador, hubiera sido imposible de llevar a cabo.</p>
 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). <b>El Software toma el mando</b>. Barcelona: Editorial UOC. 
+* <b>Adell, J. (2024).</b> <i>Fundamentos y evolución de la multimedia: remediación, multimedia e hibridación de los medios.</i> UOC.
+
+* <b>Manovich, Lev. (2013).</b> <i>El Software toma el mando</i>. Barcelona: Editorial UOC. 
 
 
 ----
