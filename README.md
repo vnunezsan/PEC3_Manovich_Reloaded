@@ -30,6 +30,17 @@ Fecha: Mayo 2026
   <figcaption>Malla generada por Scaniverse sin textura en la mitad izquierda y con textura en la mitad derecha</figcaption>
 </figure>
 
+<p>Creo que este es un caso de hibridación en el que se ve de forma muy clara, no tenemos un escaner láser de un objeto o imágenes del mismo, en archivos jpg independientes unos de otros, nos encontramos con una herramienta que nos toma como parte dentro del proceso. Como usuarios, elegimos que elemento queremos trasladar al entorno digital.
+Nos ponemos a ello y en tiempo real, a través de la pantalla del dispositivo vemos como se va creando la malla sobre el elemento, siendo nosotros mismos los que decidimos si es necesario estar mas o menos tiempo para capturar mejores detalles, al crearse una malla de mayor densidad por el aumento de la cantidad de datos recogidos.</p>
+
+<p>Tras la captura, decidimos dentro de unos varias configuraciones por defecto, como se van a procesar los datos, si con mayor cantidad de detalles para objetos pequeños o si se trata de un entorno algo mayor, hace un procesado para grandes superficies. Tras unos instantes, podemos visualizar nuestro trabajo en la misma aplicación, pivotando sobre el objeto o acercándonos al mismo.</p>
+
+<figure>
+  <img
+    src="images/Fuente_low.gif"
+    alt="Rotación de objeto caturado en la aplicación" />
+  <figcaption>Manipulación de la cámara sobre el objeto, con renderizado en tiempo real</figcaption>
+</figure>
 
 
 ## Re-descubriendo la hibridacion: Caso 2
