@@ -94,12 +94,12 @@ Con estos casos analizado en el ensayo, podemos constatar que los humanos siempr
 
 * <b>Manovich, Lev. (2013).</b> <i>El Software toma el mando</i>. Barcelona: Editorial UOC. 
 
-<p><b>Herramienta utilizada:</b> Gemini
-<b>Propósito del uso:</b> Se empleó para buscar sobre funcionamiento de herramientas
-<b>Prompts o instrucciones proporcionadas:</b> Antes ciertas dudas de como funcionan ciertas herramientas o dispositivos, se realiza consulta
-<b>Uso del contenido generado:</b> No se hace un uso directo del contenido generado.
-<b>Revisión y edición:</b> Se contrasta información, requiriendo las fuentes usadas para generar la respuesta
-<b>Limitaciones y consideraciones éticas:</b> No se ha hecho uso de la generación de contenido, sino que ha sido usada como herramienta buscadora.</p>
+<p><b>Herramienta utilizada:</b> Gemini Pro</p>
+<p><b>Propósito del uso:</b> Se empleó para buscar sobre funcionamiento de herramientas.</p>
+<p><b>Prompts o instrucciones proporcionadas:</b> Antes ciertas dudas de como funcionan ciertas herramientas o dispositivos, se realiza consulta.</p>
+<p><b>Uso del contenido generado:</b> No se hace un uso directo del contenido generado.</p>
+<p><b>Revisión y edición:</b> Se contrasta información, requiriendo las fuentes usadas para generar la respuesta.</p>
+<p><b>Limitaciones y consideraciones éticas:</b> No se ha hecho uso de la generación de contenido, sino que ha sido usada como herramienta buscadora.</p>
 
 
 ----
