@@ -84,6 +84,8 @@ Comienzo con esta frase de Manovich, ya que creo que he elegido para este caso a
 
 ## Conclusión
 
+<p>A diferencia de la re-mediación, en la que se integraban en el universo digital, los medios tradicionales, nos encontramos en este momento, analizando el que naturalmente era su paso siguiente, la hibridación.
+Con estos casos analizado en el ensayo, podemos constatar que los humanos siempre tenemos ese ansia de evolución e inconformismo, que nos ha llevado a crear herramientas que fusionan comportamientos de otras mas sencillas, y que sin ayuda del <b>"metamedio"</b> ordenador, hubiera sido imposible de llevar a cabo.</p>
 
 
 ### Referencias y Bibliografía
